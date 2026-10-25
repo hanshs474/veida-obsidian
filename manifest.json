@@ -1,0 +1,10 @@
+{
+  "id": "veida-image-generator",
+  "name": "Veida AI Image Generator",
+  "version": "1.0.0",
+  "minAppVersion": "1.4.0",
+  "description": "Generate images into your notes, or edit a vault image with one sentence. No API key, no account.",
+  "author": "Veida",
+  "authorUrl": "https://veida.ai",
+  "isDesktopOnly": false
+}
